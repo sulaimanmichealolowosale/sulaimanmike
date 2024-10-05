@@ -26,7 +26,7 @@ const greeting = {
     "A passionate backend developer focused on creating scalable web services that drive impact. Skilled in building APIs, optimizing databases, and ensuring data security. I enjoy solving problems and collaborating on efficient, end-to-end solutions while staying updated with new technologies.",
   resumeLink:
     "https://drive.google.com/file/d/1iEftgHw5suD6CcsyxIM8uqG1YQbAhu7d/view?usp=sharing",
-  portfolio_repository: "https://github.com/sulaimanmichealolowosale/masterportfolio",
+  portfolio_repository: "https://github.com/sulaimanmichealolowosale/sulaimanmike",
   githubProfile: "https://github.com/sulaimanmichealolowosale",
 };
 
